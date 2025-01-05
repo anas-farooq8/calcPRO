@@ -37,5 +37,5 @@ build/
 ### Mac OS ###
 .DS_Store
 
-### Jar File
-/out
+### Out Files ###
+*.out
